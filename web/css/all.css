@@ -1,0 +1,6 @@
+header{
+    border: solid 1px black;
+}
+.modal-footer{
+    justify-content: center!important;
+}
